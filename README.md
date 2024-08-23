@@ -2,8 +2,9 @@
 ## 23.08.24
 ### Ziele
 1. Die gesamte Zeit konzentriert arbeiten und nicht auf andere Dinge abschweifen.
-2. Ich möchte heute im Modul 431 die nächsten 3 Aufgaben lösen und im Modul 319 1 weitere Aufgabe.
-3. Ich mache genügend Pausen, aber nicht zu lange.
+2. Ich möchte heute im Modul 431 die Aufgaben 1706 AKV, 1707 Auftragsanalyse, 1708 IPERKA lösen. Und im Modul 319 die Aufgabe 6905.
+3. Zuerst möchte ich 1706, 1707 machen, dann 6905 und am Schluss noch 1708.
+4. Ich mache genügend Pausen, aber nicht zu lange.
 ### Reflektion
 ## 16.08.24
 ### Ziele
