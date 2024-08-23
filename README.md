@@ -1,4 +1,10 @@
 # Lernatelier-Pascal
+## 23.08.24
+### Ziele
+1. Die gesamte Zeit konzentriert arbeiten und nicht auf andere Dinge abschweifen.
+2. Ich möchte heute im Modul 431 die nächsten 3 Aufgaben lösen und im Modul 319 1 weitere Aufgabe.
+3. Ich mache genügend Pausen, aber nicht zu lange.
+### Reflektion
 ## 16.08.24
 ### Ziele
 1. Konzentriert Arbeiten. Ich arbeite konzentriert an meinen Aufträgen und lasse mich nicht ablenken.
