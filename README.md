@@ -6,6 +6,7 @@
 3. Zuerst möchte ich 1706, 1707 machen, dann 6905 und am Schluss noch 1708.
 4. Ich mache genügend Pausen, aber nicht zu lange.
 ### Reflektion
+Ich konnte heute sehr konzentriert arbeiten. Ich hatte die Aufgabe 6905 bereits gelöst, darum habe ich die Aufgabe 2702 gemacht. Mit dieser Aufgabe hatte ich ein wenig Probleme, darum konnte ich die Aufgabe 1708 lösen.
 ## 16.08.24
 ### Ziele
 1. Konzentriert Arbeiten. Ich arbeite konzentriert an meinen Aufträgen und lasse mich nicht ablenken.
