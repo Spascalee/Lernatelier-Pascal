@@ -1,4 +1,11 @@
 # Lernatelier-Pascal
+## 30.08.24
+### Ziele
+1. Die beiden Aufträge vom Modul 431 die ich falsch verstanden habe ein zweites mal lösen.
+2. Konzentriert arbeiten
+3. Den Auftrag 6907 Kontrollstrukturen fertig lösen.
+### Reflektion
+
 ## 23.08.24
 ### Ziele
 1. Die gesamte Zeit konzentriert arbeiten und nicht auf andere Dinge abschweifen.
