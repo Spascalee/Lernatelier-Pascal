@@ -5,7 +5,7 @@
 2. Konzentriert arbeiten
 3. Den Auftrag 6907 Kontrollstrukturen fertig lösen.
 ### Reflektion
-
+Ic war heute nicht mehr so konzentreirt wie letztes mal, darum bin ich mit dem Auftrag 6907 nicht ganz fertig geworden.
 ## 23.08.24
 ### Ziele
 1. Die gesamte Zeit konzentriert arbeiten und nicht auf andere Dinge abschweifen.
