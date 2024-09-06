@@ -1,4 +1,10 @@
 # Lernatelier-Pascal
+##06.09.24
+### Ziele
+1. Konzentriert arbeiten.
+2. Auftrag 6910 lösen.
+### Reflektion
+Ich konnte meine Ziele gut erreichen.
 ## 30.08.24
 ### Ziele
 1. Die beiden Aufträge vom Modul 431 die ich falsch verstanden habe ein zweites mal lösen.
