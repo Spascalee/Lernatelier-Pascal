@@ -1,5 +1,11 @@
 # Lernatelier-Pascal
-##06.09.24
+## 13.09.24
+### Ziele
+- TicTacToe programieren
+- Konzentriert arbeiten
+### Reflektion
+Ich konnte heute ein TicTac Toe programieren.
+## 06.09.24
 ### Ziele
 1. Konzentriert arbeiten.
 2. Auftrag 6910 lösen.
