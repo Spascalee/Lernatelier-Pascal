@@ -1,4 +1,11 @@
 # Lernatelier-Pascal
+## 20.09.24
+### Ziele
+- Ich möchte heute das Testen verstehen.
+- Konzentriert arbeiten.
+- Die Woche gut abschliessen.
+### Reflektion
+
 ## 13.09.24
 ### Ziele
 - TicTacToe programieren
