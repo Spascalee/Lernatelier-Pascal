@@ -5,7 +5,7 @@
 - Konzentriert arbeiten.
 - Die Woche gut abschliessen.
 ### Reflektion
-
+Ich konnte heute gut arbeiten und konnte die woche gut abschliessen
 ## 13.09.24
 ### Ziele
 - TicTacToe programieren
