@@ -1,4 +1,11 @@
 # Lernatelier-Pascal
+## 18.10.24
+### Ziele
+- Den Auftrag zum Debbuging lösen
+- Den Auftrag zu strings lösen
+- konzentriert arbeiten
+### Reflektion
+
 ## 20.09.24
 ### Ziele
 - Ich möchte heute das Testen verstehen.
