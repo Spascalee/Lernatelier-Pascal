@@ -5,7 +5,7 @@
 - Den Auftrag zu strings lösen
 - konzentriert arbeiten
 ### Reflektion
-
+Ich konnte heute die beiden Aufträge erledigen. Ich konnte konzentriert arbeiten und habe viel gelernt.
 ## 20.09.24
 ### Ziele
 - Ich möchte heute das Testen verstehen.
