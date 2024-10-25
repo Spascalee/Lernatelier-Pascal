@@ -1,4 +1,9 @@
 # Lernatelier-Pascal
+## 25.10.24
+### Ziele
+- Konzentriert arbeiten
+- Für die Prüfung lernen
+- Übung vom Dienstag fertig machen.
 ## 18.10.24
 ### Ziele
 - Den Auftrag zum Debbuging lösen
