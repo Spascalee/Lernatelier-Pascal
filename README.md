@@ -4,6 +4,8 @@
 - Konzentriert arbeiten
 - Für die Prüfung lernen
 - Übung vom Dienstag fertig machen.
+### Reflektion
+Ich habe heute sehr produktiv für die Modulprüfung geschaut.
 ## 18.10.24
 ### Ziele
 - Den Auftrag zum Debbuging lösen
