@@ -4,7 +4,8 @@
 - Testprotokoll
 - Test lernen
 - Konzentriert arbeiten
-
+### Reflektion
+Ich konnte heute gut für den Test lernen.
 ## 25.10.24
 ### Ziele
 - Konzentriert arbeiten
