@@ -1,4 +1,10 @@
 # Lernatelier-Pascal
+## 01.11.24
+### Ziele
+- Testprotokoll
+- Test lernen
+- Konzentriert arbeiten
+
 ## 25.10.24
 ### Ziele
 - Konzentriert arbeiten
