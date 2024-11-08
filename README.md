@@ -4,6 +4,8 @@
 - Konzentriert an den Aufgaben arbeiten.
 - PAP machen für Programierprojekt.
 - Eigenes Projekt beginnen.
+### Reflektion
+Ich konnte heute sehr gut arbeiten. Ich habe ein eigenes Projekt begonnen.
 ## 01.11.24
 ### Ziele
 - Testprotokoll
