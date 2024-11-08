@@ -1,4 +1,9 @@
 # Lernatelier-Pascal
+## 08.11.24
+### Ziele
+- Konzentriert an den Aufgaben arbeiten.
+- PAP machen für Programierprojekt.
+- Eigenes Projekt beginnen.
 ## 01.11.24
 ### Ziele
 - Testprotokoll
