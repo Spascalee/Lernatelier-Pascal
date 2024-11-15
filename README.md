@@ -2,8 +2,8 @@
 ## 15.11.24
 ### Ziele
 - Ich arbeite konzentriert
-- Ich beginne am Programmierprojekt zu programmieren.
-- Ich beginne mit meinem eigenen Programmierprojekt.
+- Ich informiere mich, wie man in Visual Studio Inhalte speichern kann.
+- Ich löse den Auftrag 1742 vom Modul 162.
 ### REflektion
 ## 08.11.24
 ### Ziele
