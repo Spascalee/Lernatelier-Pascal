@@ -1,4 +1,10 @@
 # Lernatelier-Pascal
+## 15.11.24
+### Ziele
+- Ich arbeite konzentriert
+- Ich beginne am Programmierprojekt zu programmieren.
+- Ich beginne mit meinem eigenen Programmierprojekt.
+### REflektion
 ## 08.11.24
 ### Ziele
 - Konzentriert an den Aufgaben arbeiten.
