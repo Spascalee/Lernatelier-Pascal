@@ -5,6 +5,7 @@
 - Ich informiere mich, wie man in Visual Studio Inhalte speichern kann.
 - Ich löse den Auftrag 1742 vom Modul 162.
 ### REflektion
+Ich konnte heute gut arbeiten. Ich habe jetzt das speichern verstanden
 ## 08.11.24
 ### Ziele
 - Konzentriert an den Aufgaben arbeiten.
