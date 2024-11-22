@@ -1,10 +1,17 @@
 # Lernatelier-Pascal
+## 22.11.24
+### Ziele
+- Ich arbeite konzentriert und lasse mich nicht ablenken.
+- Ich hole die Aufträge vom Modul 162 nach.
+- Ich mache am Programierprojekt weiter und programmiere, dass man die Daten speichern kann.
+### Reflektion
+
 ## 15.11.24
 ### Ziele
 - Ich arbeite konzentriert
 - Ich informiere mich, wie man in Visual Studio Inhalte speichern kann.
 - Ich löse den Auftrag 1742 vom Modul 162.
-### REflektion
+### Reflektion
 Ich konnte heute gut arbeiten. Ich habe jetzt das speichern verstanden
 ## 08.11.24
 ### Ziele
