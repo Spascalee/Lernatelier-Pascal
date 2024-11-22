@@ -5,7 +5,7 @@
 - Ich hole die Aufträge vom Modul 162 nach.
 - Ich mache am Programierprojekt weiter und programmiere, dass man die Daten speichern kann.
 ### Reflektion
-
+Ich konnte heute konzentriert am Modul 162 arbeiten und der Input war auch gut
 ## 15.11.24
 ### Ziele
 - Ich arbeite konzentriert
