@@ -1,4 +1,11 @@
 # Lernatelier-Pascal
+## 29.11.24
+### Ziele
+- Code für Programmierprojekt fertig machen
+- Daten des Programmierprojekts speichern.
+- Konzentriert arbeiten.
+### Reflektion
+Ich konnte heute sehr produktiv arbeiten. Ich bin am Programmierprojekt sehr wei gekommen.
 ## 22.11.24
 ### Ziele
 - Ich arbeite konzentriert und lasse mich nicht ablenken.
