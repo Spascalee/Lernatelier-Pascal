@@ -1,4 +1,11 @@
 # Lernatelier-Pascal
+## 06.12.24
+### Ziele
+- Portfolio Beitrag Modul 162
+- Gesamtrepetition Modul 162 lösen
+- In Visual Studio verschiedene Erweiterungen ausprobieren.
+### Reflektion
+Ich konnte heute sehr konzentriert arbeiten. Ich konnte den Portfoliobeitrag erfolgreich abschliessen.
 ## 29.11.24
 ### Ziele
 - Code für Programmierprojekt fertig machen
