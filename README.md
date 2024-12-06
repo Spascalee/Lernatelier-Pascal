@@ -4,14 +4,13 @@
 - Portfolio Beitrag Modul 162
 - Gesamtrepetition Modul 162 lösen
 - In Visual Studio verschiedene Erweiterungen ausprobieren.
-
+### Reflektion
+Ich konnte heute sehr konzentriert arbeiten. Ich konnte den Portfoliobeitrag erfolgreich abschliessen.
 ## 29.11.24
 ### Ziele
 - Code für Programmierprojekt fertig machen
 - Daten des Programmierprojekts speichern.
 - Konzentriert arbeiten.
-### Reflektion
-Ich konnte heute sehr konzentriert arbeiten. Ich konnte den Portfoliobeitrag erfolgreich abschliessen.
 ### Reflektion
 Ich konnte heute sehr produktiv arbeiten. Ich bin am Programmierprojekt sehr wei gekommen.
 ## 22.11.24
