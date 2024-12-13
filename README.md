@@ -4,6 +4,10 @@
 - Eine md Datei erstellen für die Dokumentation.
 - Mein Programmcode auf Github zu teilen.
 - Verschiedene Erweiterungen für Visual Studio ausprobieren.
+  ### Reflektion
+  Ich konnte heute ein neues Repository mit einer Readme Datei erstellen. Kontte sie aber noch nicht freigeben.
+  Den Programm Code konnte ich auch noch nicht hochladen.
+  Ich habe verschiedene Erweiterungen getestet.
 ## 06.12.24
 ### Ziele
 - Portfolio Beitrag Modul 162
