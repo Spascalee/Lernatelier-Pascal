@@ -1,4 +1,9 @@
 # Lernatelier-Pascal
+## 13.12.24
+### Ziele
+- Eine md Datei erstellen für die Dokumentation.
+- Mein Programmcode auf Github zu teilen.
+- Verschiedene Erweiterungen für Visual Studio ausprobieren.
 ## 06.12.24
 ### Ziele
 - Portfolio Beitrag Modul 162
