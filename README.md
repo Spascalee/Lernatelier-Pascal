@@ -4,7 +4,8 @@
 - Modul 117 Netzwerkplan
 - Modul 117 IPv6
 - Konzentriert arbeiten
-###
+### Reflektion
+Ich konnte heut egut arbeiten und habe meine Ziele erreicht.
 ## 13.12.24
 ### Ziele
 - Eine md Datei erstellen für die Dokumentation.
