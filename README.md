@@ -1,4 +1,10 @@
 # Lernatelier-Pascal
+## 20.12.24
+### Ziele
+- Modul 117 Netzwerkplan
+- Modul 117 IPv6
+- Konzentriert arbeiten
+###
 ## 13.12.24
 ### Ziele
 - Eine md Datei erstellen für die Dokumentation.
