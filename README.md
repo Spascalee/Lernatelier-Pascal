@@ -4,6 +4,8 @@
 - Modul 117 IPv6
 - Modul 164 Bis Auftrag 7709
 - Konzentriert arbeiten
+### Reflektion
+Ich bin heute gut vorwärtsgekommen und konnte ein wenig nacharbeiten.
 ## 20.12.24
 ### Ziele
 - Modul 117 Netzwerkplan
