@@ -4,6 +4,8 @@
 - Ich beginne mit meinem Programmierprojekt
 - Ich Informiere mich was es alles braucht für eine Handball-MatchUhr
 - Ich informiere mich wie ich das programmieren kann
+### Reflektion
+Ich bin heute an meinem Projekt gut voran gekommen.
 ## 10.01.25
 ### Ziele
 - Modul 117 IPv6
