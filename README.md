@@ -1,4 +1,9 @@
 # Lernatelier-Pascal
+## 24.01.25
+### Ziele
+- Mich über das Informieren ausserhalb der Konsole informieren. (YouTube Video)
+- Modul 164
+- Konzentriert arbeiten
 ## 17.01.25
 ### Ziele
 - Ich beginne mit meinem Programmierprojekt
