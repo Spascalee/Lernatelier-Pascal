@@ -4,6 +4,8 @@
 - Mich über das Informieren ausserhalb der Konsole informieren. (YouTube Video)
 - Modul 164
 - Konzentriert arbeiten
+### Reflektion
+Ich konnte heute sehr gut arbeiten. Das YouTube Video hat mir sehr geholfen
 ## 17.01.25
 ### Ziele
 - Ich beginne mit meinem Programmierprojekt
