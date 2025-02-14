@@ -4,6 +4,8 @@
 - Datenbank erstellen
 - Tabellen erstellen
 - Daten einfügen
+### Reflektion
+- Ich konnte heute die Datenbank erstellen und alle Tabellen erstellen. Ich bin aber mit den Daten einfügen noch nicht fertig.
 ## 24.01.25
 ### Ziele
 - Mich über das Informieren ausserhalb der Konsole informieren. (YouTube Video)
