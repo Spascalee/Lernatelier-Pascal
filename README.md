@@ -1,4 +1,9 @@
 # Lernatelier-Pascal
+## 14.02.25
+### Ziele
+- Datenbank erstellen
+- Tabellen erstellen
+- Daten einfügen
 ## 24.01.25
 ### Ziele
 - Mich über das Informieren ausserhalb der Konsole informieren. (YouTube Video)
