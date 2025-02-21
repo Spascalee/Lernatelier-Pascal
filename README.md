@@ -1,5 +1,9 @@
 # Lernatelier-Pascal
 ## 14.02.25
+## Ziele
+- Punkteanzeige
+- Zeitanzeige
+- LB M164
 ### Ziele
 - Datenbank erstellen
 - Tabellen erstellen
