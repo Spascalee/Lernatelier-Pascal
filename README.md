@@ -4,6 +4,8 @@
 - Punkteanzeige
 - Zeitanzeige
 - LB M164
+## REflektion
+Ich konnte heute gut arbeiten und bin fertig geworden mit meinen zeile
 ### Ziele
 - Datenbank erstellen
 - Tabellen erstellen
